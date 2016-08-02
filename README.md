@@ -1,0 +1,1 @@
+"A SEAN application starter" 
